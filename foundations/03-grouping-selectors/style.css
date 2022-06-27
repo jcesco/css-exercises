@@ -1,0 +1,13 @@
+.text{
+    font-size: 28px;
+    font-family: Arial, 'Times New Roman', sans-serif;
+    }
+
+.text.uno{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.text.dos{
+    background-color: #ffff00;
+}
